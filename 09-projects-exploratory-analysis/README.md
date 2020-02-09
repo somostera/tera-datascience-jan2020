@@ -1,6 +1,6 @@
-Pré-aula
-[requerido] Fluxo de analise exploratoria, notebook da aula 12
-[opcional] Conteúdo trabalhado no módulo 2: da aula 6 até a aula 12.
+PrÃ©-aula
+[requerido] Fluxo de analise exploratoria, notebook da aula 9
+[opcional] ConteÃºdo trabalhado no mÃ³dulo 2: da aula 6 atÃ© a aula 9.
 
-Pós-aula
+PÃ³s-aula
 AirBnB Knowledge Repo: https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091
